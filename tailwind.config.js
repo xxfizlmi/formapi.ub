@@ -18,11 +18,17 @@ module.exports = {
       '16': '4rem',
     },
     fontFamily: {
-      'lemonada': 'Lemonada, cursive',
+      'ub': 'Kaisei HarunoUmi, serif',
+      'cover':'Kaushan Script, cursive'
     },
     fontSize: {
       'logo' : '14px',
-      'ub' : '20px'
+      'ub' : '20px',
+      'cover' : '64px'
+    },
+    colors: {
+      'primary' :'#4050A6',
+      'white' : '#ffffff'
     }
   },
   plugins: [],
